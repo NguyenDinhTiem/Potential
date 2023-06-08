@@ -4,8 +4,9 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/markdown
+  - file: book/3d-list-numpy-basic-checkpoint
   - file: book/notebooks
+  - file: book/markdown
   - file: book/bibliography
 
 # Or you organize the TOC by parts
