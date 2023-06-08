@@ -4,7 +4,6 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/3d-list-numpy-basic-checkpoint
   - file: book/notebooks
   - file: book/markdown
   - file: book/bibliography
